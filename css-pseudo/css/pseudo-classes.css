@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 50px;
+}
+
+a{
+    border: 1px solid gray;
+    padding: 10px 16px;
+    display: inline-block;
+    text-decoration: none;
+    width: 100px;
+    text-align: center;
+}
+
+/* Ziyaret edilmemiş olan bir link için verilecek css kodları */
+
+a:link{
+    color: red;
+}
+/* Ziyaret edilmiş olan bir link için verilecek css kodları */
+a:visited{
+   color: green;
+}
+
+/* Linkin üstüne sol tıkla tıkladığımda gördüğüm css kodları */
+
+a:active{
+    color: #fff;
+    background-color: violet;
+}
+
+/* Linkin üstüne geldiğimde herhangi bir tıklama yapmadan gördüğüm css kodları */
+
+a:hover{
+    color: #fff;
+    background-color: cornflowerblue;
+}
+
+
+
+p{
+    display: none;
+}
+
+div:hover p{
+    display: block;
+    background-color: red;
+    color: #fff;
+}

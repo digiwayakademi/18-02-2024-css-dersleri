@@ -1,0 +1,33 @@
+
+
+
+
+a{
+    background-color: #2E4C6D;
+    color: #fff;
+    text-decoration: none;
+    padding: 4px 16px;
+    border: 2px solid coral;
+    border-radius: 8px;
+}
+
+a:hover{
+    background-color: coral;
+    color:#fff;
+}
+
+.abone{
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;  
+}
+
+.abone:hover{
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #000;
+}

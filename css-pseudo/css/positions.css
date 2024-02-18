@@ -1,0 +1,30 @@
+
+
+
+.box{
+    height:200px;
+    width: 200px;  
+    margin-bottom: 10px;
+}
+
+
+#box1{
+    background-color: green;
+}
+
+#box2{   
+    background-color: blue;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+
+}
+
+#box3{
+    background-color: coral;
+}
+
+.container{
+    position: relative;
+    background-color: yellow;
+}

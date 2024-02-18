@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.social{
+    
+   
+    background-color: #000;
+    height: 100px;
+}
+
+
+i{
+    color: #ccc;
+    margin-top: 50px;
+    margin-left: 20px;
+}

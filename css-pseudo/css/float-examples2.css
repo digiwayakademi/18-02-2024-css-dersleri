@@ -1,0 +1,27 @@
+
+
+header,footer{
+    background-color: #9195F6;
+    color: #F9F07A;
+    padding: 15px;
+}
+
+.menu{
+    width: 25%;
+    height: 600px;
+    background-color: #FB88B4;
+    float: left;
+}
+
+.content{
+    width: 75%;
+    height: 600px;
+    background-color: #B7C9F2;
+    float: right;
+}
+
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}

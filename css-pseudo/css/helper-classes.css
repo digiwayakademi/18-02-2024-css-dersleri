@@ -1,0 +1,130 @@
+
+
+
+body{
+    padding: 10px;
+}
+
+
+.btn{
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.btn-primary{
+    background-color: cornflowerblue;
+    color: #fff;
+}
+
+.btn-primary:hover{
+    background-color: #fff;
+    color: cornflowerblue;
+    border: 1px solid cornflowerblue;
+}
+
+.btn-secondary{
+    background-color: #ccc;
+    color: #000;
+}
+
+.btn-secondary:hover{
+    background-color: #fff;
+    color: #ccc;
+    border: 1px solid #ccc;
+}
+
+.btn-success{
+    background-color: green;
+    color: #fff;
+}
+
+.btn-success:hover{
+    color: green;
+    background-color: #fff;
+    border: 1px solid green;
+}
+
+
+.px-0{
+    padding: 0;
+}
+
+.px-1{
+    padding: 0 15px;
+}
+
+.px-2{
+    padding: 0 30px;
+}
+
+.px-3{
+    padding: 0 45px;
+}
+
+.px-4{
+    padding: 0 60px;
+}
+
+.py-0{
+    padding: 0;
+}
+
+.py-1{
+    padding: 15px 0;
+}
+
+.py-2{
+    padding: 30px 0;
+}
+
+.py-3{
+    padding: 45px 0;
+}
+
+.py-4{
+    padding: 60px 0;
+}
+
+
+.mx-0{
+    margin: 0;
+}
+
+.mx-1{
+    margin: 0 15px;
+}
+
+.mx-2{
+    margin: 0 30px;
+}
+
+.mx-3{
+    margin: 0 45px;
+}
+
+.mx-4{
+    margin: 0 60px;
+}
+
+
+.my-0{
+    margin: 0;
+}
+
+.my-1{
+    margin: 15px 0;
+}
+
+.my-2{
+    margin: 30px  0;
+}
+
+.my-3{
+    margin: 45px 0;
+}
+
+.my-4{
+    margin: 60px 0;
+}

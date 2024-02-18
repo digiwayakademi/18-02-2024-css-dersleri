@@ -1,0 +1,17 @@
+
+
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    display: block;
+    float:right;
+}
+
+.container{
+    background-color: aqua;
+}
+
+#box3{
+    float: left;
+}
